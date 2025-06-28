@@ -1,7 +1,11 @@
-## Hi there 👋
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,java,firebase,vite,figma,git,github,vscode" />
+<br>
+
 
 <!--
-**ohagi-ky/ohagi-ky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
