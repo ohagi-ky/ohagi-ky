@@ -1,6 +1,6 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,java,python,kotlin,firebase,vite,figma,git,github,vscode,discord,bots" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,java,python,kotlin,firebase,gcp,vite,figma,git,github,vscode,discord,bots" />
 <br>
 
 
