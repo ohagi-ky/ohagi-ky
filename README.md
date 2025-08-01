@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 -->
 
 ## Links
-Qiita: https://qiita.com/OhaGi_
+<a href="https://qiita.com/OhaGi_">
+  <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3584262/1ccfb689-c8dd-410c-9afa-1e4084cb3d25.png"width="30">
+</a>
