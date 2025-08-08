@@ -1,3 +1,4 @@
+## 😎 Hello!
 [![typograssy](https://typograssy.deno.dev/api?text=%20Thanks%20for%20stopping%20by%20my%20GitHub%20profile!%20)](https://github.com/kawarimidoll/typograssy)
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
