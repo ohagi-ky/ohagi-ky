@@ -1,3 +1,5 @@
+[![typograssy](https://typograssy.deno.dev/api?text=%20Thanks%20for%20stopping%20by%20my%20GitHub%20profile!%20)](https://github.com/kawarimidoll/typograssy)
+
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,java,python,kotlin,firebase,gcp,vite,figma,git,github,vscode,discord,bots" />
